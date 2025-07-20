@@ -1,0 +1,2 @@
+Create a simple character device driver that supports basic read/write with 1KB buffer.
+Implement a platform driver for a memory-mapped GPIO with interrupt support.

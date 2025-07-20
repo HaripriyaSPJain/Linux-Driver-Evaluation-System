@@ -1,0 +1,23 @@
+{
+    "compilation": {
+        "success_rate": 0.0,
+        "warnings_count": 0,
+        "errors_count": 1
+    },
+    "security": {
+        "buffer_safety": 0,
+        "race_conditions": 0,
+        "input_validation": 0
+    },
+    "functionality": {
+        "basic_operations": 0.9,
+        "error_handling": 0.7,
+        "edge_cases": 0.6
+    },
+    "code_quality": {
+        "style_compliance": 0.8,
+        "documentation": 0.6,
+        "maintainability": 0.7
+    },
+    "overall_score": 25.5
+}
